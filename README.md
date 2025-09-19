@@ -6,6 +6,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 </div>
 
+### 👨‍💻 About Me  
+
+🚀 **Aspiring Analytics & Data Engineer** with a passion for **turning complex data problems into elegant solutions**.  
+I thrive on learning how to design and build **scalable ETL/ELT pipelines**, transform raw data into clean, reliable datasets, and optimize workflows for performance and efficiency.  
+
+Armed with certifications in **Data Engineering, AI, and Cloud technologies**, I’m steadily building expertise in **data modeling, workflow automation, and visualization tools like Tableau**. I enjoy creating dashboards that don’t just present numbers but **tell stories and empower stakeholders to act with confidence**.  
+
+💡 Curious by nature and driven by impact, I’m exploring the **modern data stack** while actively working on projects that strengthen both my technical foundation and problem-solving skills. My goal is to grow into a role where I can **leverage data to drive innovation and support smarter decision-making**.  
+
+Currently, I’m preparing to **kick-start my career in Analytics & Data Engineering** and excited to contribute my skills to real-world challenges 🚀.  
+
+---
+
 ### 🛠️ Technical Arsenal
 
 **💻 Programming & Scripting**
@@ -57,11 +70,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshatDE&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatDE&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-</div>
-
-### 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatDE&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
