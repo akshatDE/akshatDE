@@ -8,14 +8,14 @@
 
 ### 👨‍💻 About Me  
 
-🚀 **Aspiring Analytics & Data Engineer** with a passion for **turning complex data problems into elegant solutions**.  
+**Aspiring Analytics & Data Engineer** with a passion for **turning complex data problems into elegant solutions**.  
 I thrive on learning how to design and build **scalable ETL/ELT pipelines**, transform raw data into clean, reliable datasets, and optimize workflows for performance and efficiency.  
 
 Armed with certifications in **Data Engineering, AI, and Cloud technologies**, I’m steadily building expertise in **data modeling, workflow automation, and visualization tools like Tableau**. I enjoy creating dashboards that don’t just present numbers but **tell stories and empower stakeholders to act with confidence**.  
 
-💡 Curious by nature and driven by impact, I’m exploring the **modern data stack** while actively working on projects that strengthen both my technical foundation and problem-solving skills. My goal is to grow into a role where I can **leverage data to drive innovation and support smarter decision-making**.  
+ Curious by nature and driven by impact, I’m exploring the **modern data stack** while actively working on projects that strengthen both my technical foundation and problem-solving skills. My goal is to grow into a role where I can **leverage data to drive innovation and support smarter decision-making**.  
 
-Currently, I’m preparing to **kick-start my career in Analytics & Data Engineering** and excited to contribute my skills to real-world challenges 🚀.  
+Currently, I’m preparing to **kick-start my career in Analytics & Data Engineering** and excited to contribute my skills to real-world challenges .  
 
 ---
 
