@@ -11,11 +11,11 @@
 **Aspiring Analytics & Data Engineer** with a passion for **turning complex data problems into elegant solutions**.  
 I thrive on learning how to design and build **scalable ETL/ELT pipelines**, transform raw data into clean, reliable datasets, and optimize workflows for performance and efficiency.  
 
-Armed with certifications in **Data Engineering, AI, and Cloud technologies**, I’m steadily building expertise in **data modeling, workflow automation, and visualization tools like Tableau**. I enjoy creating dashboards that don’t just present numbers but **tell stories and empower stakeholders to act with confidence**.  
+Armed with certifications in **Data Engineering, AI, and Cloud technologies**, I'm steadily building expertise in **data modeling, workflow automation, and visualization tools like Tableau**. I enjoy creating dashboards that don't just present numbers but **tell stories and empower stakeholders to act with confidence**.  
 
- Curious by nature and driven by impact, I’m exploring the **modern data stack** while actively working on projects that strengthen both my technical foundation and problem-solving skills. My goal is to grow into a role where I can **leverage data to drive innovation and support smarter decision-making**.  
+ Curious by nature and driven by impact, I'm exploring the **modern data stack** while actively working on projects that strengthen both my technical foundation and problem-solving skills. My goal is to grow into a role where I can **leverage data to drive innovation and support smarter decision-making**.  
 
-Currently, I’m preparing to **kick-start my career in Analytics & Data Engineering** and excited to contribute my skills to real-world challenges .  
+Currently, I'm preparing to **kick-start my career in Analytics & Data Engineering** and excited to contribute my skills to real-world challenges .  
 
 ---
 
@@ -67,9 +67,35 @@ Currently, I’m preparing to **kick-start my career in Analytics & Data Enginee
 ---
 
 ### 📊 GitHub Analytics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshatDE&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatDE&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshatDE&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF"/>
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatDE&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+  
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatDE&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 ---
+
+### 📫 Connect With Me
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
+</div>
