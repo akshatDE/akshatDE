@@ -80,6 +80,11 @@ Currently, I'm preparing to **kick-start my career in Analytics & Data Engineeri
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatDE&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
+<!-- Add ?cache_seconds=0 to force refresh -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatDE&cache_seconds=0&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatDE&cache_seconds=0&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
 ---
 
 ### 📫 Connect With Me
