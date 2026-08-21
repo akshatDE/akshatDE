@@ -1,103 +1,258 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Engineer+%26+AI+Developer;Building+end-to-end+pipelines+%26+AI-integrated+workflows;Airflow+%C2%B7+Spark+%C2%B7+Snowflake+%C2%B7+LangChain+%C2%B7+Ollama;Integrating+LLMs+into+Data+Engineering+workflows;RAG+systems+%C2%B7+Text-to-SQL+%C2%B7+On-prem+LLM+deployment;MSBA+%40+UMass+Boston+%E2%80%94+AI+%26+Data+Analytics" alt="Professional Intro" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-</div>
+# 👋 Hi, I'm Akshat Sharma
 
-### 👨‍💻 About Me
+### Data Engineer × AI Developer
 
-**Data Engineer & AI Developer** focused on building intelligent, scalable data infrastructure.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Data+Platforms;Engineering+Production+ETL+%26+ELT+Pipelines;Exploring+AI+%2B+Data+Infrastructure;Building+with+Spark+%7C+Airflow+%7C+BigQuery+%7C+LLMs" alt="Typing SVG" />
 
-My core is ETL/ELT pipelines, dimensional modeling, warehousing, and orchestration. My edge is extending that foundation into AI — wiring RAG pipelines, deploying local LLMs with Ollama, and using LangChain to make data workflows smarter without shipping sensitive data to the cloud.
+<br/>
 
-Most teams bolt AI onto their stack after the fact. I build with it in mind from the start.
-
-📚 MSBA (AI & Data Analytics) @ UMass Boston · GPA: 4.0
-🎓 B.Tech Computer Science @ Chitkara University
-
----
-
-### 🌐 Portfolio
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-akshatde--portfolio.base44.app-00D9FF?style=for-the-badge&logo=globe&logoColor=white)](https://akshatde-portfolio.base44.app/)
+<a href="https://akshatde-portfolio.base44.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/akshat-sharma-35a514222">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sharmaakshat0001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🚀 About Me
 
-**💻 Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+I build data platforms, ETL/ELT pipelines, analytical systems, and AI-powered data applications.
 
-**⚡ Data Engineering & Big Data**
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+Three years of production data engineering taught me the unglamorous parts — reconciliation, quality gates, failure triage, the schema conversation you have six months before anyone notices you were right. That's the foundation. AI is the layer I'm building on top of it: RAG, local LLMs, Text-to-SQL, tool-calling agents.
 
-**🗄️ Databases & Warehousing**
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+Most teams bolt AI onto their stack after the fact. I'd rather design for it from the start.
 
-**☁️ Cloud Platforms**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**🤖 AI & LLM Tooling**
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**📈 BI & Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Google Looker](https://img.shields.io/badge/Google%20Looker-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**🔧 DevOps & Tooling**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+**🔍 Open to Data Engineering and AI-integrated data roles.**
 
 ---
 
-### 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatDE&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatDE&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
+**Languages**
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshatDE&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+
+**Data Engineering & Orchestration**
+
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark%20(PySpark)-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+
+<sub>ETL/ELT · Dimensional (Kimball) Modeling · Medallion Architecture · Data Quality · Distributed & Batch Processing</sub>
+
+**Databases & Warehouses**
+
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+**Cloud**
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+<sub>S3 · Glue · Lambda · Athena · Step Functions · EventBridge · SNS · CloudWatch · EC2</sub>
+
+**AI / LLM Engineering**
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+<sub>RAG · Text-to-SQL · Tool-Calling Agents · Local Inference · Prompt & Context Engineering</sub>
+
+**Backend & DevOps**
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
 </div>
 
 ---
 
-### 📫 Connect With Me
+## 🏗️ Featured Engineering Projects
+
+<!-- TODO: confirm the SoftCart repo name. Both the image URL and the
+     "View Project" link below assume github.com/akshatDE/SoftCart -->
+
+### 🛒 SoftCart — E-commerce Data Platform + AI
+
+`Airflow` `DuckDB` `PostgreSQL` `MySQL` `MongoDB` `FastAPI` `Ollama` `Docker`
+
+End-to-end analytics platform pairing a conventional warehouse architecture with local LLM-powered Text-to-SQL.
+
+<a href="https://github.com/akshatDE/SoftCart">
+  <img src="https://raw.githubusercontent.com/akshatDE/SoftCart/main/softcart-ecom.png" alt="SoftCart architecture" width="100%" />
+</a>
+
+- 2 fact tables at order-item grain, 7 conformed dimensions with surrogate keys
+- Two blocking DQ gates backed by a pytest suite that fails the run on violation
+- SQL safety validator: SELECT-only, keyword denylist, table allowlist, injected LIMIT, read-only connection
+- Docker Compose cut contributor setup from ~2 hours to under 10 minutes
+
+<a href="https://github.com/akshatDE/SoftCart">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 📺 YT Trending Data Pipeline — Cloud-Native Analytics Platform
+
+`AWS` `PySpark` `Glue` `S3` `Athena` `Step Functions` `Lambda` `QuickSight`
+
+Cloud-native pipeline ingesting and transforming YouTube trending data across 10 regions.
+
+<a href="https://github.com/akshatDE/YT-Trending-Data-Pipeline">
+  <img src="https://raw.githubusercontent.com/akshatDE/YT-Trending-Data-Pipeline/main/dashboard/infra-screenshots/YT-TrendingPipeline.png" alt="YouTube trending pipeline architecture" width="100%" />
+</a>
+
+- Bronze–Silver–Gold medallion on Snappy Parquet with Hive-style region partitioning, provisioned via Boto3
+- Quality gates at two boundaries: row-count floors, null thresholds, schema conformance, 48-hour freshness
+- Step Functions on a 6-hour EventBridge schedule with exponential-backoff retries and SNS alerts
+- QuickSight dashboard over four Athena SPICE datasets
+
+<a href="https://github.com/akshatDE/YT-Trending-Data-Pipeline">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 🤖 Pure Python Local Agent — AI Agent From Scratch
+
+`Python` `Ollama` `Groq` `FastAPI` `Streamlit`
+
+A tool-calling agent built without LangChain or any agent framework — the loop written by hand to understand what the framework abstracts away.
+
+<a href="https://github.com/akshatDE/AgenticAILearning/tree/main/pure-python-local-agent">
+  <img src="https://raw.githubusercontent.com/akshatDE/AgenticAILearning/main/pure-python-local-agent/python_agent_arch.png" alt="Pure Python agent architecture" width="100%" />
+</a>
+
+- JSON tool schemas and a name-to-function registry
+- Bounded loop appending results to conversation memory, exiting on a toolless answer
+- Four tools against live REST APIs: weather, currency, arithmetic, web search
+- Two interchangeable backends: local Qwen 9B offline, hosted Groq for the demo
+
+<a href="https://github.com/akshatDE/AgenticAILearning/tree/main/pure-python-local-agent">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+## 🎯 Engineering Philosophy
+
+**Build the fundamentals first. Add abstractions when they solve a real problem.**
+
+Understanding the layer underneath the framework is what makes the framework useful — which is why I keep rebuilding things from their primitives before reaching for the library that hides them.
+
+<pre>
+     DATA ENGINEERING
+            │
+   ┌────────┼────────┐
+   ▼        ▼        ▼
+Python     SQL     Spark
+   │        │        │
+   └────────┼────────┘
+            ▼
+  Distributed Systems
+            ▼
+      System Design
+            ▼
+     AI ENGINEERING
+            │
+   ┌────────┼────────┐
+   ▼        ▼        ▼
+  RAG    Agents    LLMs
+   │        │        │
+   └────────┼────────┘
+            ▼
+    AI + Data Systems
+</pre>
+
+**Currently going deeper on:** Spark internals, agentic AI, context engineering, and production AI infrastructure.
+
+---
+
+## 💼 Engineering Experience
+
+**Data Engineer** — Neel Data Pro IT Solutions · Jul 2021 – Jul 2024
+
+- 🔄 Integrated 6+ heterogeneous source systems into a centralized BigQuery warehouse
+- 🗃️ Migrated 10M+ records off legacy systems, reconciling row counts to confirm zero loss at cutover
+- 📦 Processed ~2.5 GB of daily tourism data
+- ⚡ Cut report generation from ~4 hours to 30 minutes for 15+ government stakeholders
+- 🛡️ Implemented validation at load boundaries: row counts, null thresholds, schema conformance, referential integrity
+- 📈 Built 8+ Tableau dashboards tracking segment KPIs, informing 4 strategic funding decisions
+- 📚 Authored pipeline runbooks and a warehouse data dictionary so analysts could self-serve
+
+---
+
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 M.S. Business Analytics
+
+**University of Massachusetts Boston**
+*Major: AI & Data Analytics* · 2024 — 2026
+
+**GPA: 4.0 / 4.0**
+
+Advanced AI/ML · Applied AI · Big Data Processing · Data Warehousing
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 B.Tech Computer Science
+
+**Chitkara University**
+2019 — 2023
+
+**GPA: 3.74 / 4.0**
+
+Programming · Algorithms · Databases · Software Engineering
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=white)](https://akshatde-portfolio.base44.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-sharma-35a514222)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshatDE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaakshat0001@gmail.com)
+<img src="https://img.shields.io/badge/IBM-Data%20Engineering%20Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-University%20Platform%20Skills-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-AI%20Agents%20Fundamentals-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
+
+**Building reliable data systems that power intelligent applications.**
+
+<a href="https://github.com/akshatDE">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
