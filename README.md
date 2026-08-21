@@ -92,17 +92,14 @@ Most teams bolt AI onto their stack after the fact. I'd rather design for it fro
 
 ## 🏗️ Featured Engineering Projects
 
-<!-- TODO: confirm the SoftCart repo name. Both the image URL and the
-     "View Project" link below assume github.com/akshatDE/SoftCart -->
-
 ### 🛒 SoftCart — E-commerce Data Platform + AI
 
 `Airflow` `DuckDB` `PostgreSQL` `MySQL` `MongoDB` `FastAPI` `Ollama` `Docker`
 
 End-to-end analytics platform pairing a conventional warehouse architecture with local LLM-powered Text-to-SQL.
 
-<a href="https://github.com/akshatDE/SoftCart">
-  <img src="https://raw.githubusercontent.com/akshatDE/SoftCart/main/softcart-ecom.png" alt="SoftCart architecture" width="100%" />
+<a href="https://github.com/akshatDE/softcart-ecom-data_platform">
+  <img src="https://raw.githubusercontent.com/akshatDE/softcart-ecom-data_platform/main/softcart-ecom.png" alt="SoftCart architecture" width="100%" />
 </a>
 
 - 2 fact tables at order-item grain, 7 conformed dimensions with surrogate keys
@@ -110,7 +107,7 @@ End-to-end analytics platform pairing a conventional warehouse architecture with
 - SQL safety validator: SELECT-only, keyword denylist, table allowlist, injected LIMIT, read-only connection
 - Docker Compose cut contributor setup from ~2 hours to under 10 minutes
 
-<a href="https://github.com/akshatDE/SoftCart">
+<a href="https://github.com/akshatDE/softcart-ecom-data_platform">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
